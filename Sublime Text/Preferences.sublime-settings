@@ -1,0 +1,73 @@
+// Sublime Text general settings
+
+{
+    ////////////////////////////////////////////////
+    //               Theme settings               //
+    ////////////////////////////////////////////////
+
+    "color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+    "theme": "Material-Theme.sublime-theme",
+
+
+    ///////////////////////////////////////////////
+    //               Font settings               //
+    ///////////////////////////////////////////////
+
+    "font_size": 14,
+
+
+    //////////////////////////////////////////////
+    //               Tab settings               //
+    //////////////////////////////////////////////
+
+    // The number of spaces a tab is considered equal to
+    "tab_size": 4,
+
+    // Insert spaces when tab is pressed
+    "translate_tabs_to_spaces": true,
+
+    // Detect tabs vs. spaces on load
+    "detect_indentation": false,
+
+    // When pressing "Shift + Tab", unindent current line or insert tab character
+    "shift_tab_unindent": true,
+
+
+    ////////////////////////////////////////////////////
+    //               Highlight settings               //
+    ////////////////////////////////////////////////////
+
+    // Highlight any line with a caret
+    "highlight_line": true,
+
+
+    /////////////////////////////////////////////////
+    //               Window settings               //
+    /////////////////////////////////////////////////
+
+    // Use custom or default title bar
+    "themed_title_bar": false,
+
+    // Display file encoding in the status bar
+    "show_encoding": true,
+
+    // Display line endings in the status bar
+    "show_line_endings": false,
+
+    // Show the full path to files in the title bar
+    "show_full_path": false,
+
+    // Show "project - file" or "file - project" in the title bar
+    "show_project_first": true,
+
+
+    ////////////////////////////////////////////////////////
+    //               Auto-complete settings               //
+    ////////////////////////////////////////////////////////
+
+    // Auto-complete on tab or enter
+    "auto_complete_commit_on_tab": true,
+
+    // Create a cycle selection for auto-completion items
+    "auto_complete_cycle": true
+}

@@ -1,0 +1,28 @@
+// LaTeXTools package settings
+
+{
+    //////////////////////////////////////////////////
+    //               General settings               //
+    //////////////////////////////////////////////////
+
+    // Open an empty window on Windows
+    "keep_focus": false,
+
+    // Sync PDF to current editor position after building (true) or not
+    "forward_sync": false,
+
+
+    /////////////////////////////////////////////////
+    //               Viewer settings               //
+    /////////////////////////////////////////////////
+
+    // Invoke a viewer based on commands configured in viewer settings below
+    "viewer": "command",
+
+    // Specify viewer-dependent settings and preferences
+    "viewer_settings": {
+        "windows" : {
+            "view_command": "Acrobat.exe $pdf_file"
+        }
+    }
+}

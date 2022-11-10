@@ -1,0 +1,20 @@
+// SideBarEnhancements package settings
+
+{
+    ///////////////////////////////////////////////////////////////
+    //               Sidebar context menu settings               //
+    ///////////////////////////////////////////////////////////////
+
+    "disabled_menuitem_edit": true,
+    "disabled_menuitem_edit_to_right": true,
+    "disabled_menuitem_open_run": true,
+    "disabled_menuitem_open_in_browser": true,
+    "disabled_menuitem_open_in_new_window": true,
+    "disabled_menuitem_find_in_project": true,
+    "disabled_menuitem_paste_in_parent": true,
+    "disabled_menuitem_folder_save": true,
+    "disabled_menuitem_folder_close": true,
+
+    // Remove "Give 20" item from the sidebar context menu
+    "i_donated_to_sidebar_enhancements_developer": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DD4SL2AHYJGBW"
+}
