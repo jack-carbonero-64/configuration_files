@@ -13,3 +13,4 @@ This configuration is based on Sublime Text **Build 4126**.
 - [LSP-css](https://packagecontrol.io/packages/LSP-css)
 - [LSP-json](https://packagecontrol.io/packages/LSP-json)
 - [GitGutter](https://packagecontrol.io/packages/GitGutter)
+- [DocBlockr](https://packagecontrol.io/packages/DocBlockr)

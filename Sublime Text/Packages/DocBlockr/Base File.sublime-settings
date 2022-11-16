@@ -1,0 +1,11 @@
+// DocBlockr package settings
+
+{
+    /////////////////////////////////////////////////////
+    //               Documentation style               //
+    /////////////////////////////////////////////////////
+
+    // Whether there should be blank lines added between the description line, and between tags of different types
+    // Possible values are true, false, or "after_description"
+    "jsdocs_spacer_between_sections": true
+}
