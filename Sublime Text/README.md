@@ -1,6 +1,6 @@
 # Sublime Text configuration
 
-This configuration is based on Sublime Text **Build 4126**.
+This configuration is based on Sublime Text **Build 4143**.
 
 ## Packages list
 
@@ -14,3 +14,4 @@ This configuration is based on Sublime Text **Build 4126**.
 - [LSP-json](https://packagecontrol.io/packages/LSP-json)
 - [GitGutter](https://packagecontrol.io/packages/GitGutter)
 - [DocBlockr](https://packagecontrol.io/packages/DocBlockr)
+- [FileIcons](https://packagecontrol.io/packages/FileIcons)

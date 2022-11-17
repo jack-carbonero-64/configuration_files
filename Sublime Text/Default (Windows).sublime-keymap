@@ -1,0 +1,4 @@
+[
+    {"keys": ["alt+b"], "command": "build"},
+    {"keys": ["ctrl+b"], "command": "toggle_side_bar"}
+]
