@@ -15,3 +15,4 @@ This configuration is based on Sublime Text **Build 4143**.
 - [GitGutter](https://packagecontrol.io/packages/GitGutter)
 - [DocBlockr](https://packagecontrol.io/packages/DocBlockr)
 - [FileIcons](https://packagecontrol.io/packages/FileIcons)
+- [ColorPicker](https://packagecontrol.io/packages/ColorPicker)
